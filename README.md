@@ -37,3 +37,11 @@ SO2 (Sulfur Dioxide)
 Sunrise & Sunset Times: Displays the local sunrise and sunset times.
 
 Chance of Rain: A 7-day forecast showing the probability of rain.
+
+Technology Stack
+Power BI Desktop
+
+Power Query (for data transformation)
+
+Contributing
+We welcome contributions! If you have suggestions or improvements, please open an issue or submit a pull request.
